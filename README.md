@@ -1,18 +1,14 @@
 # gpaCalculator
-my first ios application :)
-
-Created by Jun suk Bang on 15/01/2018.
-Copyright © 2018 Jun Bang. All rights reserved.
 
 
+# 사용 기술
 
-How to use:
+## Storyboard/ UIKit
 
-press grade -> press credit -> press GPA button
+### 사용법
 
+성적 누른다 (A+) -> 학점 누른다(3학점) -> GPA 버튼을 누른다
 or
+학점 누른다(3학점) -> 성적 누른다 (A+) ->  GPA 버튼을 누른다
 
-press credit -> press grade -> press GPA button 
-
-
-repeat
+반복
